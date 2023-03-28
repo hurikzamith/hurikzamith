@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my Personal GitHub profile! 😁
+![image](https://user-images.githubusercontent.com/93097561/228339826-d1542e71-2987-4bf7-9b98-0be60d73050d.png)
 
 <!--
 **hurikzamith/hurikzamith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
