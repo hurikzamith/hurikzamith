@@ -11,10 +11,10 @@
 
 
 ### Nice to meet you! 🙋‍♂️ My name is Hurik Zamith. I am a Full Stack developer from Brazil, graduated on Le Wagon 🚐, widely considered one of the best bootcamp institutions in the world! 🌎
+Check it out: https://www.switchup.org/bootcamps/le-wagon
+
 
 - 🚀 How can I be of service to you? 🔎 I am on the lookout for exciting projects, both by contract or freelance  
-
-
 - Here you will find a few of my projects, both developed and developing 
 - 🔭 I’m currently working on a website for a sailing school ⛵ using Ruby on Rails framework. 🌱 I am always willing to expand my horizon and learn new technologies
 👯 looking to collaborate on projects that represent change for the better in peoples day-to-day lives
