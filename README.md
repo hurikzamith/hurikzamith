@@ -23,5 +23,5 @@ Check it out: https://www.switchup.org/bootcamps/le-wagon
 - ☎ Phone: +55 12 997664219 
 - 💼 Linkedin: https://www.linkedin.com/in/hurikzamith/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I have travelled 🎒 to 24 countries and counting, most of them by ship  🛳
+- ⚡ Fun fact: I have traveled 🎒 to 24 countries and counting, most of them by ship  🛳
 
