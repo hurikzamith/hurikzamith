@@ -16,8 +16,9 @@ Check it out: https://www.switchup.org/bootcamps/le-wagon
 
 - 🚀 How can I be of service to you? 🔎 I am on the lookout for exciting projects, both by contract or freelance  
 - Here you will find a few of my projects, both developed and developing 
-- 🔭 I’m currently enlisted in the App Brewery web development course to sharpen my skills. 🌱 I am always willing to expand my horizon and learn new technologies
-👯 looking to collaborate on projects that represent change for the better in peoples day-to-day lives
+- 🔭 I’m currently enlisted in the App Brewery web development course to sharpen my skills. 
+- 🌱 I am always willing to expand my horizon and learn new technologies
+- 👯 looking to collaborate on projects that represent change for the better in peoples day-to-day lives
 - 📩 Email: hurikzamith@gmail.com 
 - <a class="nav-link" href="https://wa.me/+5512997664219?text=Hi!%20I%20am%20at%20your%20GitHub%20profile%20%20de%20:)">📱Whatsapp</a>
 - ☎ Phone: +55 12 997664219 
