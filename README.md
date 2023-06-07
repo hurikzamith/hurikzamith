@@ -10,7 +10,9 @@
 
 
 
-### Nice to meet you! 🙋‍♂️ My name is Hurik Zamith. I am a Full Stack developer from Brazil, graduated on Le Wagon 🚐, widely considered one of the best bootcamp institutions in the world! 🌎
+### Nice to meet you! 🙋‍♂️ My name is Hurik Zamith. I am a Full Stack developer working at Dimensa|TOTVS, lead software company in Brazil. 
+
+> I graduated on Le Wagon 🚐, widely considered one of the best bootcamp institutions in the world! 🌎
 Check it out: https://www.switchup.org/bootcamps/le-wagon
 
 
