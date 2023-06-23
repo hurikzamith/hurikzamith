@@ -27,6 +27,5 @@ Check it out: https://www.switchup.org/bootcamps/le-wagon
 - <a class="nav-link" href="https://wa.me/+5512997664219?text=Hi!%20I%20am%20at%20your%20GitHub%20profile%20%20de%20:)">📱Whatsapp</a>
 - ☎ Phone: +55 12 997664219 
 - 💼 Linkedin: https://www.linkedin.com/in/hurikzamith/
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I have traveled 🎒 to 24 countries and counting, most of them by ship  🛳
 
