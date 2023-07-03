@@ -12,7 +12,7 @@
 
 ### Nice to meet you! 🙋‍♂️ My name is Hurik Zamith. 
 
->> I am a Full Stack developer working at Dimensa|TOTVS, lead software company in Brazil. <<
+> I am a Full Stack developer working at Dimensa|TOTVS, lead software company in Brazil.
 
 ⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
 
