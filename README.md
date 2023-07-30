@@ -12,14 +12,12 @@
 
 ### Nice to meet you! 🙋‍♂️ My name is Hurik Zamith. 
 
-> I am a Full Stack developer working at Dimensa|TOTVS, lead software company in Brazil.
-
-⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
-
-> I graduated on Le Wagon 🚐, widely considered one of the best bootcamp institutions in the world! 🌎
-Check it out: https://www.switchup.org/bootcamps/le-wagon
+> I am a Full Stack developer working at Dimensa|TOTVS, a lead software company in Brazil.
 
 ---
+
+> I graduated from Le Wagon 🚐, widely considered one of the best boot camp institutions in the world! 🌎
+Check it out: https://www.switchup.org/bootcamps/le-wagon
 
 - 🚀 How can I be of service to you? 🔎 I am on the lookout for exciting projects, both by contract or freelance  
 - Here you will find a few of my projects, both developed and developing 
@@ -37,3 +35,6 @@ Check it out: https://www.switchup.org/bootcamps/le-wagon
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurikzamith)](https://github.com/anuraghazra/github-readme-stats)
+
+
+⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
