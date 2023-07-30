@@ -31,3 +31,8 @@ Check it out: https://www.switchup.org/bootcamps/le-wagon
 - 💼 Linkedin: https://www.linkedin.com/in/hurikzamith/
 - ⚡ Fun fact: I have traveled 🎒 to 24 countries and counting, most of them by ship  🛳
 
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurikzamith)](https://github.com/anuraghazra/github-readme-stats)
