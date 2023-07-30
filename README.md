@@ -14,10 +14,10 @@
 
 > I am a Full Stack developer working at Dimensa|TOTVS, a lead software company in Brazil.
 
----
 
 > I graduated from Le Wagon 🚐, widely considered one of the best boot camp institutions in the world! 🌎
 Check it out: https://www.switchup.org/bootcamps/le-wagon
+---
 
 - 🚀 How can I be of service to you? 🔎 I am on the lookout for exciting projects, both by contract or freelance  
 - Here you will find a few of my projects, both developed and developing 
