@@ -14,7 +14,7 @@
 
 > I am a Full Stack developer working at Dimensa|TOTVS, lead software company in Brazil.
 
-⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
+### ⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
 
 > I graduated on Le Wagon 🚐, widely considered one of the best bootcamp institutions in the world! 🌎
 Check it out: https://www.switchup.org/bootcamps/le-wagon
