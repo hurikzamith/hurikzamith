@@ -38,3 +38,5 @@ Check it out: https://www.switchup.org/bootcamps/le-wagon
 
 
 ⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
+
+![snake gif](https://github.com/YOUR_USERNAME/hurikzamith/blob/output/github-contribution-grid-snake.gif)
