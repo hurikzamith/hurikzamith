@@ -1,43 +1,50 @@
-### Welcome to my GitHub profile! 😁
+# 👋 Welcome to my GitHub!
 
-
-
-
-![giphy (5)](https://user-images.githubusercontent.com/93097561/228623271-accb9a89-2f88-416d-88d3-13367dff344b.gif)
-
-
-
-
-
-
-### Nice to meet you! 🙋‍♂️ My name is Hurik Zamith. 
-
-> I am a Full Stack developer working at Dimensa|TOTVS, a lead software company in Brazil.
-
-
-> I graduated from Le Wagon 🚐, widely considered one of the best boot camp institutions in the world! 🌎
-Check it out: https://www.switchup.org/bootcamps/le-wagon
----
-
-- 🚀 How can I be of service to you? 🔎 I am on the lookout for exciting projects, both by contract or freelance  
-- Here you will find a few of my projects, both developed and developing 
-- 🔭 I’m currently enlisted in the App Brewery web development course to sharpen my skills. 
-- 🌱 I am always willing to expand my horizon and learn new technologies
-- 👯 looking to collaborate on projects that represent change for the better in peoples day-to-day lives
-- 📩 Email: hurikzamith@gmail.com 
-- <a class="nav-link" href="https://wa.me/+5512997664219?text=Hi!%20I%20am%20at%20your%20GitHub%20profile%20%20de%20:)">📱Whatsapp</a>
-- ☎ Phone: +55 12 997664219 
-- 💼 Linkedin: https://www.linkedin.com/in/hurikzamith/
-- ⚡ Fun fact: I have traveled 🎒 to 24 countries and counting, most of them by ship  🛳
+![giphy](https://user-images.githubusercontent.com/93097561/228623271-accb9a89-2f88-416d-88d3-13367dff344b.gif)
 
 ---
 
-### :fire: My Stats :
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurikzamith)](https://github.com/anuraghazra/github-readme-stats)
+Hi! I'm **Hurik Zamith**, a **Full Stack Software Engineer (backend-heavy)** with 2+ years of professional experience building and scaling fintech and healthtech products using **Ruby on Rails**, **MongoDB**, **Sidekiq**, and modern web stacks.
 
+I currently work at **Dimensa (TOTVS Group)**, one of Brazil’s top fintechs, where I’ve:
 
-⚠️ WARNING: I work with bitbucket, instead of Github, thats the reason you may not see that many commits in my Github calendar! ⚠️
+- Engineered critical backend features like **CPF data enrichment pipelines**, **relationship modeling engines**, and **modular logging frameworks**
+- Reviewed code across squads to improve quality, performance, and maintainability
+
+I also **founded and developed [Sazu Care](https://www.sazucare.com.br)** — a caregiver platform built from scratch with production-ready features such as user verification, scheduling logic, payments, and geolocation services.
+
+In 2023, I graduated from **Le Wagon Bootcamp**, where I built:
+
+- 🎮 *Rent Games*: A game rental platform inspired by Airbnb  
+- 🎸 *Music Booking*: A music booking marketplace for artists and venues
+
+---
+
+## 🔍 What I’m Looking For
+
+I’m seeking **remote backend or full-stack Ruby roles** at global tech companies**, where I can:
+
+- Deliver high-impact, scalable systems
+- Collaborate with high-performance engineering teams
+- Contribute to meaningful, long-term products
+  
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hurikzamith/)
+- 📩 hurikzamith@gmail.com  
+- 📱 [WhatsApp](https://wa.me/+5512997664219?text=Hi!%20I%20am%20at%20your%20GitHub%20profile%20%20:) )  
+- ⚡ *Fun fact*: I’ve visited 24+ countries while serving in the Brazilian Navy 🚢
+
+---
+
+## 🧠 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurikzamith&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+⚠️ *Note: Most of my work is hosted on Bitbucket — GitHub doesn’t show the full picture!*
 
 ![snake gif](https://github.com/hurikzamith/hurikzamith/blob/output/github-contribution-grid-snake.gif)
-
